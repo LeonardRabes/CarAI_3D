@@ -1,0 +1,6 @@
+Credits
+"asphalt001" by Katsukagi licensed CC0 1.0: https://3dtextures.me/2017/04/05/asphalt-001/
+"sand002" by Katsukagi licensed CC0 1.0: https://3dtextures.me/2017/03/23/sand-002/
+"3 seamless grass textures" by Calinou licensed CC0 1.0: https://opengameart.org/content/3-seamless-grass-textures
+"Stylized Forest Environment" by Nikita Muradkhanyan licensed Asset Store Terms of Service: https://assetstore.unity.com/packages/3d/environments/stylized-forest-environment-lite-119384
+"Simple Low Poly Sports Car" by Hirschknoten3D licensed Asset Store Terms of Service: https://assetstore.unity.com/packages/3d/vehicles/land/simple-low-poly-sports-car-90186
