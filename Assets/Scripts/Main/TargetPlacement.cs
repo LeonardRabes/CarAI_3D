@@ -25,7 +25,9 @@ public class TargetPlacement : MonoBehaviour
                 if (collide && dist > sphereCollider.radius )
                 {
                     car.isAlive = false;
-                    car.carObj.GetComponent<Rigidbody>().drag = simulationManager.carDrag - 4;
+                    Rigidbody rBody = car.carObj.GetComponent<Rigidbody>();
+                    rBody.drag = simulationManager.carDrag - 4;
+                    rBody.angularVelocity = Vector3.zero;
                 }
             }
 

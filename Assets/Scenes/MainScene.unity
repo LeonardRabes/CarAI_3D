@@ -8,8 +8,9 @@ OcclusionCullingSettings:
     smallestOccluder: 5
     smallestHole: 0.25
     backfaceThreshold: 100
-  m_SceneGUID: 00000000000000000000000000000000
-  m_OcclusionCullingData: {fileID: 0}
+  m_SceneGUID: cf6ce9cbdd3c8bd43902b58b18c5f772
+  m_OcclusionCullingData: {fileID: 36300000, guid: db5f3998b59ec204d8256a118e8744c5,
+    type: 2}
 --- !u!104 &2
 RenderSettings:
   m_ObjectHideFlags: 0
@@ -875,7 +876,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 125
   m_IsActive: 1
 --- !u!224 &621328430
 RectTransform:
@@ -1230,6 +1231,12 @@ PrefabInstance:
       propertyPath: carDisplayState
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4639602150403842821, guid: 668360c3ed7b5ab489472109ffb40e56,
+        type: 3}
+      propertyPath: sampleCar
+      value: 
+      objectReference: {fileID: 1382471374512216888, guid: f35464f25a77a104e80699b773017943,
+        type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 668360c3ed7b5ab489472109ffb40e56, type: 3}
 --- !u!1 &900832718

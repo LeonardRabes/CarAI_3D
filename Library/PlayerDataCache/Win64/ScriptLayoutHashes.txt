@@ -1,6 +1,6 @@
 Win64
 PlayerPath?
-C:/Users/leona/source/repos_unity/Build/CarAI_26_01_2018/CarAI.exe
+C:/Users/leona/source/repos_unity/Build/final/CarAI_16_02_2019/CarAI.exe
 SceneListBegin?
 Assets/Scenes/MenuScene.unity
 Assets/Scenes/MainScene.unity
@@ -142,6 +142,7 @@ ad9173d3a69d99153f38ed4b62226129 UnityEngine.Networking.dll:UnityEngine.Networki
 9b895dcabbc1faf095c000c32d471fd0 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformChild
 5887ef1bc706b22b773d253fd443ceef UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformVisualizer
 510fefd6a544e16a3ffefa557ddcba39 Unity.TextMeshPro.dll:TMPro.PackageResourceImporterWindow
+a8ae0487f719ff9b49c4baa65f39c0c6 Assembly-CSharp.dll:.CreditsButtonBehaviour
 aa82b3ce4c0c9b227036c0337315c5d3 Unity.TextMeshPro.dll:TMPro.TMP_FontAsset
 e51c09a4cc447f11db225afcd8e3e490 Unity.TextMeshPro.dll:TMPro.TMP_Settings
 71bb6a6b6c8f052f948db64c7dd3ca4f UnityEngine.Advertisements.dll:UnityEngine.Advertisements.CallbackExecutor
@@ -171,4 +172,3 @@ e28d7e2e6c36b8e6a892e2e8af2a783c Assembly-CSharp.dll:.DrawManager
 c6666661329916e218bee7f5e79e60f5 Unity.TextMeshPro.dll:TMPro.TextMeshPro
 3165968ba45c74472d279ba04455fccb Unity.TextMeshPro.dll:TMPro.TMP_ColorGradient
 8649814970b42d345b89944b862453cc Unity.TextMeshPro.dll:TMPro.TMP_SubMesh
-a8ae0487f719ff9b49c4baa65f39c0c6 Assembly-CSharp.dll:.CreditsButtonBehaviour

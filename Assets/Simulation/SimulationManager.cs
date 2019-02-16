@@ -77,7 +77,7 @@ public class SimulationManager : MonoBehaviour
 
         // create Car game objects
         carGameObjects = new CarGameObject[simulationEngine.SpawnAmount];
-        hideLocation = new Vector3(terrainImage.width / 2, -30, terrainImage.height / 2);
+        hideLocation = new Vector3(terrainImage.width / 2, 4096, terrainImage.height / 2);
 
         // instantiate each car
         for (int i = 0; i < carGameObjects.Length; i++)
