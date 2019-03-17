@@ -127,7 +127,7 @@ namespace Simulation
         public void LoadProperties(string structure)
         {
             EyeAmount = BrainLayers[0];
-            EyeMaxViewDistance = Length * 5 / 3;
+            EyeMaxViewDistance = Length * 5;
             TurnSpeed = RandomNumber.Between(1, 50);
             Acceleration = RandomNumber.Between(1, 10);
             Color = RandomNumber.Between(0, 3);
@@ -143,7 +143,7 @@ namespace Simulation
         public void LoadProperties(Stream structure)
         {
             EyeAmount = BrainLayers[0];
-            EyeMaxViewDistance = Length * 5 / 3;
+            EyeMaxViewDistance = Length * 5;
             TurnSpeed = RandomNumber.Between(1, 50);
             Acceleration = RandomNumber.Between(1, 10);
             Color = RandomNumber.Between(0, 3);
